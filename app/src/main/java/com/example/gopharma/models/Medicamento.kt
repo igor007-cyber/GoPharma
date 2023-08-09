@@ -1,10 +1,7 @@
 package com.example.gopharma.models
 
-class Cliente {
+class Medicamento {
     private var id: Int = 0
     private var nome: String = ""
-    private var cpf: String = ""
-
-
-
+    private var GTIN: String = ""
 }
